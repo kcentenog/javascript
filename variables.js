@@ -1,14 +1,18 @@
-var cajon;
+// String
+var bootcamp = 'Henry';
 
-// string
+// Números
+var numeroEntero = 17;
+var numeroNegativo = -4;
+var numeroDecimal = 11.75;
 
-var bootcamp="henry";
+// Booleanos
+var estoyEntendiendo = true;
+var estoyAburrido = false;
 
-// numeros
+// Undefined
+var cajon1;
+console.log(cajon1);
 
-var Numeropositivo = 14;
-
-// booleanos
-
-var Tengosueno = false;
-
+// Null
+var sinNada = null;
